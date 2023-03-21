@@ -1,9 +1,10 @@
 Vamos Grupo 7!!!
 
-Maria Celeste Antelo
-Maria del Carmen Luque Quispe
-Navy Flores
-Alejandra C. Moscuzza
-Yoly Cordova
-Agustina Aguirre 
-María Emilia Cao González
+1.Maria Celeste Antelo
+2.Maria del Carmen Luque Quispe
+3.Navy Flores
+4.Alejandra C. Moscuzza
+5.Yoly Cordova
+6.Agustina Aguirre 
+7.María Emilia Cao González
+8.Maria Fernandez
